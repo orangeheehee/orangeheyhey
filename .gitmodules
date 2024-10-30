@@ -1,0 +1,3 @@
+[submodule "nousflash"]
+	path = nousflash
+	url = git@github.com:DamascusGit/nousflash
